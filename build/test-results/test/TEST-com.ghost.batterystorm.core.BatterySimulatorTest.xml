@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ghost.batterystorm.core.BatterySimulatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-11-11T09:09:05.683Z" hostname="GHOST" time="0.102">
+  <properties/>
+  <testcase name="invalid percentage throws exception()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.044"/>
+  <testcase name="reset returns to default()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.034"/>
+  <testcase name="initial simulated percentage is 50()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.001"/>
+  <testcase name="pause and resume simulation()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.005"/>
+  <testcase name="start and stop simulation()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.001"/>
+  <testcase name="manual percentage change updates state()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.001"/>
+  <testcase name="discharge rate must be positive()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.006"/>
+  <testcase name="actual battery percentage can be set()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.001"/>
+  <testcase name="initial status is stopped()" classname="com.ghost.batterystorm.core.BatterySimulatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
